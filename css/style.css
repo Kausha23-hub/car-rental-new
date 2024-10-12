@@ -387,6 +387,7 @@
 /*** About Start ***/
 .about .about-item .about-item-inner {
     display: flex;
+    height: 100%;
     flex-direction: column;
     align-items: center;
     justify-content: center;
